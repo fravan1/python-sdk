@@ -1,7 +1,7 @@
 import pytest
 from unittest.mock import patch, MagicMock
-from src.config import Config
-from src.client import Client, GenerationError
+from zbyte.config import Config
+from zbyte.client import Client
 
 @pytest.fixture
 def cfg():
