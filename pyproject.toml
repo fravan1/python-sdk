@@ -25,3 +25,7 @@ dependencies = [
 [project.urls]
 "Homepage" = "https://www.0byte.tech"
 "Source" = "https://github.com/0byte-lab/python-sdk"
+
+[tool.setuptools.packages.find]
+include = ["zbyte*"]
+exclude = ["public*"]
