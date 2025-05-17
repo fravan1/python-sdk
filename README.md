@@ -16,7 +16,7 @@
 
 # 0byte SDK
 
-**0byte** is the official Python SDK for generating AI images and anchoring cryptographic proofs to the **Solana blockchain**. It supports integration with Hugging Face inference APIs and provides a seamless backend for verifiable media.
+**Zbyte** is the official Python SDK for generating AI images and anchoring cryptographic proofs to the **Solana blockchain**. It supports integration with Hugging Face inference APIs and provides a seamless backend for verifiable media.
 
 ## What It Does
 
