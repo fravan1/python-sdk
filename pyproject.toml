@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "zbyte"
-version = "0.1.1"
+version = "0.1.2"
 description = "Python SDK for 0byte image generation and proof anchoring"
 authors = [{name="0byte", email="nitinmewar28@gmail.com"}]
 readme = "README.md"

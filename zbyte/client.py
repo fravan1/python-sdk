@@ -7,7 +7,7 @@ from .constants import PLATFORMS
 from .exceptions import GenerationError, ProofError
 from .utils import logger
 
-zbyte_base = "https://zerobyte-backend.onrender.com"
+zbyte_base = " https://0byte-backend-production.up.railway.app"
 
 class GenerationResult:
     def __init__(self, image_bytes: bytes, transaction_id: str):

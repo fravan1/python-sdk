@@ -10,3 +10,4 @@ wheels/
 .venv
 
 app.py
+generator.py
