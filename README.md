@@ -25,8 +25,6 @@
 - Embeds the Solana transaction ID + platform into the image metadata  
 - Enables downstream verification of the media origin
 
----
-
 ## Installation
 
 ```bash
